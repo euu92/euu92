@@ -12,7 +12,7 @@
  
  🔭 I’m currently **studying**
  
- 🌱 I’m currently learning **iOS app development**
+ 🌱 I’m currently **developing the final project for my degree**
 
  </div>
  
