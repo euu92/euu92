@@ -12,7 +12,7 @@
  
  🔭 I’m currently **learning Kotlin**
  
- 🌱 I’m currently **developing the final project for my degree**
+ 🌱 I’m currently **developing and indexed search app**
 
  </div>
  
