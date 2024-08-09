@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,bootstrap,css,html,idea,java,js,mysql,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,angular,html,css,bootstrap,aws,mysql,vscode,intellij,androidstudio" />
   </a>
 </div>
 
