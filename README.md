@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently **learning Kotlin**
+ 🔭 I’m currently **learning Machine Learning**
  
  🌱 I’m currently **developing an indexed search app**
 
