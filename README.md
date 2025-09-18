@@ -12,7 +12,7 @@
  
  🔭 I’m currently **learning Deep Learning**
  
- 🌱 I’m currently **developing an indexed search app**
+ 🌱 I’m currently **developing a Personal Research Assistant**
 
  </div>
  
