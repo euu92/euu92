@@ -23,7 +23,7 @@ Currently focusing on **Network Anomaly Detection**, **IoT Privacy**, and **Linu
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
 | **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| **Infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Pi-hole](https://img.shields.io/badge/-Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 | **Security** | `Fail2ban`, `SSH Hardening`, `IDS (Intrusion Detection Systems)`, `Network Traffic Analysis` |
 
 ---
@@ -54,17 +54,3 @@ Currently focusing on **Network Anomaly Detection**, **IoT Privacy**, and **Linu
 * **Security:** Server hardened via SSH keys and **Fail2ban**.
 * **Visualization:** Custom Dockerized Python application using **GeoIP2** to map unauthorized SSH access attempts globally.
 * **Services:** DNS Filtering (Pi-hole), Container management.
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=minimal&hide_border=true" alt="Eugenio's Stats" />
-</p>
-
----
-
-<div align="center">
-  <sub>Authorized to work in the EU (Spanish Citizenship). Open to opportunities in Switzerland (CERN/EPFL ecosystem).</sub>
-</div>
