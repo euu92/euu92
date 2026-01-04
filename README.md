@@ -25,32 +25,3 @@ Currently focusing on **Network Anomaly Detection**, **IoT Privacy**, and **Linu
 | **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 | **Infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 | **Security** | `Fail2ban`, `SSH Hardening`, `IDS (Intrusion Detection Systems)`, `Network Traffic Analysis` |
-
----
-
-## 🚀 Featured Projects
-
-### 📡 [Network Traffic Inspector (IoT Privacy)]
-*Status: Active Development (2025)*
-> A data mining project to audit local network behavior and detect intrusive telemetry.
-
-* **Architecture:** Engineered an ETL pipeline from a live **Pi-hole SQLite database** (`pihole-FTL.db`).
-* **Analysis:** Applied Time Series Analysis and **SQL window functions** to detect traffic anomalies.
-* **Key Feature:** Developing passive device fingerprinting logic to identify IoT devices based on DNS signatures.
-* **Stack:** Python, Pandas, SQLite.
-
-### 🛡️ [Network Guardian (IDS)]
-*Status: Active Development (2025)*
-> A cybersecurity module designed to classify network attacks using Machine Learning.
-
-* **Core:** Implemented a **Random Forest** classifier trained on the **CIC-IDS2017** dataset.
-* **Challenge:** Solved class imbalance issues in network logs using **SMOTE** (Synthetic Minority Over-sampling Technique).
-* **Stack:** Python, Scikit-learn, Matplotlib.
-
-### 🖥️ [Personal Infrastructure (Home Lab)]
-*Status: Production (24/7)*
-> Self-hosted environment for testing and deployment.
-
-* **Security:** Server hardened via SSH keys and **Fail2ban**.
-* **Visualization:** Custom Dockerized Python application using **GeoIP2** to map unauthorized SSH access attempts globally.
-* **Services:** DNS Filtering (Pi-hole), Container management.
