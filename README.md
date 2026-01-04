@@ -13,7 +13,7 @@ I am a Software Engineering student with a strong academic background in **Discr
 
 Unlike the traditional developer path, my approach is rooted in **Systems Security** and **Real-world Simulation**. I run a dedicated **Home Lab** (Self-hosted Environment) to validate reliable code, automate data pipelines, and analyze network behavior outside of theoretical sandboxes.
 
-🔭 **Current Focus:** Building an [Automated SSH Defense System](https://github.com/eugenio/homelab-security-architecture) to visualize and mitigate brute-force attacks in real-time.
+🔭 **Current Focus:** Building an [Automated SSH Defense System](https://github.com/euu92/ssh-defense-system) to visualize and mitigate brute-force attacks in real-time.
 
 ---
 
@@ -35,10 +35,3 @@ I believe that engineering excellence comes from discipline and strategic thinki
 * ♟️ **Chess Enthusiast:** Constant learner of strategy and pattern recognition. (Always up for a game!).
 * 🏋️ **Physical Discipline:** Dedicated to strength training. I apply the same consistency to the gym as I do to my code.
 * 🥘 **Cooking:** Because managing dependencies is easier on a full stomach.
-
----
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=euu92&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euu92&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
-</div>
