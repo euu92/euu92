@@ -34,5 +34,5 @@ Unlike the traditional developer path, my approach is rooted in **Systems Securi
 I believe that engineering excellence comes from discipline and strategic thinking, both inside and outside the IDE.
 
 * ♟️ **Chess Enthusiast:** Constant learner of strategy and pattern recognition. (Always up for a game!).
-* 🏋️ **Physical Discipline:** Dedicated to strength training. I apply the same consistency to the gym as I do to my code.
+* 🏋️ **Physical Discipline:** Dedicated to strength training & calisthenics.
 * 🥘 **Cooking:** Because managing dependencies is easier on a full stomach.
